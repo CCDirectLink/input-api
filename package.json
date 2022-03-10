@@ -1,6 +1,6 @@
 {
   "name": "input-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows mods to add rebindable key bindings",
   "license": "MIT",
   "homepage": "https://github.com/dmitmel/input-api",
