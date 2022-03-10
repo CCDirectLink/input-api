@@ -5,8 +5,5 @@
   "license": "MIT",
   "homepage": "https://github.com/dmitmel/input-api",
   "module": true,
-  "postload": "postload.js",
-  "ccmodDependencies": {
-    "crosscode": "^1.1.0"
-  }
+  "postload": "postload.js"
 }
