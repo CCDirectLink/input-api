@@ -1,0 +1,10 @@
+{
+  "id": "input-api",
+  "version": "1.0.1",
+  "title": "input-api",
+  "description": "Allows mods to add rebindable key bindings",
+  "repository": "https://github.com/dmitmel/input-api",
+  "tags": ["library"],
+  "authors": "dmitmel",
+  "postload": "postload.js"
+}
