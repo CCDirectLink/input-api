@@ -1,0 +1,10 @@
+{
+  "id": "input-api",
+  "version": "1.0.2",
+  "title": "input-api",
+  "description": "Allows mods to add rebindable key bindings",
+  "repository": "https://github.com/CCDirectLink/input-api",
+  "tags": ["library"],
+  "authors": "dmitmel",
+  "postload": "postload.js"
+}
